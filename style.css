@@ -8,7 +8,7 @@ body{
 .Header-grande{
     width: 100%;
     height: 550px;
-    background: url(../MiPortafolios/imagenes/venezuela.jpg);
+    background: url(../imagenes/venezuela.jpg);
 }
 
 .Header-grande h1{
